@@ -247,7 +247,7 @@ nav.navbar.bootsnav .navbar-toggle i{color: #ff545a;}
     background-position:center;
     background-size:cover;
     text-align: center;
-    height:800px;
+    height:500px;
     z-index: 1;
 }
 .welcome-hero:before{
@@ -943,6 +943,19 @@ nav.navbar.bootsnav .navbar-toggle i{color: #ff545a;}
     animation-direction: alternate;
     animation-iteration-count: infinite;
     animation-duration:1s;
+}
+
+.mb-4 {
+    margin-bottom: 20px !important;
+}
+.mt-4 {
+    margin-top: 20px !important;
+}
+.mt-8 {
+    margin-top: 40px !important;
+}
+.pb-4 {
+    padding-bottom: 20px;
 }
 @keyframes example {
     0%   {bottom:0px;}
