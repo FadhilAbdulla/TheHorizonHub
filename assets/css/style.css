@@ -1025,4 +1025,13 @@ nav.navbar.bootsnav .navbar-toggle i{color: var(--main-color);}
     0%   {bottom:0px;}
     100%  {bottom:7px;}
 }
+
+
+.available a {
+    color: green; 
+}
+
+.unavailable a {
+    color: red; 
+}
 /*========================Thank you=================
