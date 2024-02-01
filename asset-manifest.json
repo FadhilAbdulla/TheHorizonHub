@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "./static/css/main.71d0be9f.css",
-    "main.js": "./static/js/main.f099f09d.js",
+    "main.js": "./static/js/main.920ac679.js",
     "static/media/ComputerProduct.jpg": "./static/media/ComputerProduct.86fa47edd786c70673cc.jpg",
     "static/media/banner.jpg": "./static/media/banner.d2a3e73ad21e10950681.jpg",
     "static/media/fontawesome-webfont.svg?v=4.7.0": "./static/media/fontawesome-webfont.6878d55e3615ccf40c38.svg",
@@ -30,10 +30,10 @@
     "static/media/slick.woff": "./static/media/slick.295183786cd8a1389865.woff",
     "index.html": "./index.html",
     "main.71d0be9f.css.map": "./static/css/main.71d0be9f.css.map",
-    "main.f099f09d.js.map": "./static/js/main.f099f09d.js.map"
+    "main.920ac679.js.map": "./static/js/main.920ac679.js.map"
   },
   "entrypoints": [
     "static/css/main.71d0be9f.css",
-    "static/js/main.f099f09d.js"
+    "static/js/main.920ac679.js"
   ]
 }
