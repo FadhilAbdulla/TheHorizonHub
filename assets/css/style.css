@@ -2728,9 +2728,9 @@ input[type=checkbox] {
   -webkit-flex-shrink: 0;
       -ms-flex-negative: 0;
           flex-shrink: 0;
-  font-size: 30px;
+  font-size: 28px;
   line-height: 1;
-  color: #d2a98e;
+  color: #f4d9548a;
 }
 .header-top-info-inner .info-item .info-content {
   -webkit-box-flex: 1;
